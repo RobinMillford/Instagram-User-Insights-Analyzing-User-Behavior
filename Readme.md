@@ -16,4 +16,8 @@ In this project, I delved into the dynamics of a popular photo-sharing website u
 
 **Data Visualization:** I also utilized Power BI for data visualization, enhancing the project's comprehensibility.
 
+Dashboard 1 - ![Alt Text](https://github.com/RobinMillford/Instagram-User-Insights-Analyzing-User-Behavior/blob/main/Page%201.png)
+
+Dashboard 2 - ![Alt Text](https://github.com/RobinMillford/Instagram-User-Insights-Analyzing-User-Behavior/blob/main/Page%202.png)
+
 Through these SQL queries and visualizations, I gained in-depth insights into user behavior on the platform. These findings serve as a foundation for optimizing engagement strategies, addressing bot-related concerns, and enhancing the overall user experience on the photo-sharing website.
